@@ -1,6 +1,6 @@
 # Nile Time Series Analysis - Local Level Model
 # Authors: Andrea Bianco, Egle Caudullo, Giovanni Contento
-# Date: 2025
+# Date: May 2025
 
 # 1. Libraries
 library(TSA)
