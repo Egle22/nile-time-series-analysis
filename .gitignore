@@ -1,0 +1,44 @@
+# R specific
+.Rhistory
+.Rdata
+.RData
+.Ruserdata
+*.Rproj
+*.Rproj.user/
+
+# RStudio files
+.Rproj.user
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# Output files (optional - uncomment if you want to ignore)
+# results/figures/*.png
+# results/figures/*.pdf
+# results/tables/*.csv
+
+# OS specific
+.DS_Store
+Thumbs.db
+.directory
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+```
+
+---
+
+### **STEP 4: Salva il file**
+
+1. Scorri in basso
+2. Nel campo **"Commit new file"** scrivi:
+```
+   Add .gitignore for R project
